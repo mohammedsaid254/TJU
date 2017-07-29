@@ -1,2 +1,2 @@
 # TJU
-Some soluton
+Some solutons
